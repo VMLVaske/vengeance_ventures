@@ -34,7 +34,7 @@ features:
       - "Web Applications: Create powerful, user-friendly web apps tailored to your needs."
       - "Cloud Solutions: Optimize your infrastructure with AWS and cloud-based tools."
     button:
-      enable: true
+      enable: false
       label: "Learn More"
       link: "/services"
 
