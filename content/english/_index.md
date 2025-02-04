@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Doing Business with A Vengeance"
-  content: "We create sleek, functional websites and web applications tailored to your unique needs. Whether you’re a small business, a startup, or an individual with a bold idea, we’re here to help you succeed."
+  content: "Let's create sleek, functional websites and web applications based to your unique needs. We help you grow your business with passion."
   image: "/images/banner.png"
   button:
     enable: true
@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Learn More"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "/services"
 
   - title: "Our Values"
     image: "/images/service-3.png"
