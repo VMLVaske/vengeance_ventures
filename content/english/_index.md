@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Doing Business with A Vengeance"
+  title: "doing business with a Vengeance"
   content: "Let's create sleek, functional websites and web applications based to your unique needs. We help you grow your business with passion."
   image: "/images/banner.png"
   button:
