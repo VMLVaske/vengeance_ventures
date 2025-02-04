@@ -53,21 +53,21 @@ weight = 3
 
 # footer menu
 [[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
 name = "About"
 url = "/about"
-weight = 1
+weight = 2
 
 [[footer]]
 name = "Imprint"
 url = "/imprint"
-weight = 2
+weight = 3
 
 [[footer]]
 name = "Privacy Policy"
 url = "/privacy-policy"
-weight = 3
-
-[[footer]]
-name = "Contact"
-url = "/contact"
 weight = 4
