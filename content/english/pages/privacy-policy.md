@@ -1,3 +1,12 @@
+---
+title: "Privacy Policy"
+# meta title
+meta_title: ""
+# meta description
+description: "Privacy Policy"
+# save as draft
+draft: false
+---
 # Datenschutzerklärung
 
 ## 1. Datenschutz auf einen Blick
