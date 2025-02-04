@@ -1,51 +1,50 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "doing business with a Vengeance"
+  content: "Let's create sleek, functional websites and web applications based to your unique needs. We help you grow your business with passion."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Let's Get Started"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Why Choose Vengeance Ventures?"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "We combine technical expertise with a client-centered approach to deliver solutions that drive real results."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Tailored Solutions: Every project is customized to meet your specific goals and needs."
+      - "Fast Iteration: We thrive on quick, collaborative development to bring your ideas to life."
+      - "Innovative Thinking: From blockchain to cloud infrastructure, we’re always exploring new technologies."
+      - "Transparent Communication: We keep you informed every step of the way."
+      - "Social Impact Focus: We love working with clients who are making a positive difference."
+      - "Flexible Expertise: Whether it’s React, AWS, or something new, we’re ready to tackle your challenge."
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Our Services"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "We offer a range of web development and consulting services to help your business grow."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Custom Website Development: Build a sleek, functional website that reflects your brand."
+      - "Web Applications: Create powerful, user-friendly web apps tailored to your needs."
+      - "Cloud Solutions: Optimize your infrastructure with AWS and cloud-based tools."
     button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      enable: false
+      label: "Learn More"
+      link: "/services"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Our Values"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: At Vengeance Ventures, we believe in more than just code—we believe in building meaningful partnerships."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Fair Business Practices: We prioritize collaboration and transparency over profit."
+      - "Community Focus: We’re committed to supporting local businesses and global impact."
+      - "Innovation & Adaptability: We’re always learning and exploring new ways to solve problems."
     button:
       enable: false
       label: ""
