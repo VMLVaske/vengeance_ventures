@@ -1,7 +1,7 @@
 ---
 title: "Imprint"
 # meta title
-meta_title: "imprint"
+meta_title: ""
 # meta description
 description: "This is meta description"
 # save as draft
