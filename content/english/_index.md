@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Let's Get Started"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "/contact"
 
 # Features
 features:
