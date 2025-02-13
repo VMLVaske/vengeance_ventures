@@ -54,6 +54,9 @@ jobs:
       - name: Install npm dependencies
         run: npm install
 
+      - name: Load Secrets
+        run: HUGO_GOOGLE_ANALYTICS_ID=${{ secrets.HUGO_GOOGLE_ANALYTICS_ID }} hugo --minify
+
       - name: Publish to GitHub Pages
         run: npm run build
 
