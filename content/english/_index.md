@@ -2,51 +2,46 @@
 # Banner
 banner:
   title: "doing business with a Vengeance"
-  content: "Let's create sleek, functional websites and web applications based to your unique needs. We help you grow your business with passion."
-  image: "/images/banner.png"
+  content: "Wir entwickeln **elegante und funktionale Websites sowie Webanwendungen**, die auf Ihre individuellen Bedürfnisse zugeschnitten sind. Wir unterstützen Sie mit Leidenschaft dabei, Ihr Geschäft auszubauen."
+  image: "images/banner.png"
   button:
     enable: true
-    label: "Let's Get Started"
+    label: "Lass uns anfangen"
     link: "/contact"
 
 # Features
 features:
-  - title: "Why Choose Vengeance Ventures?"
+  - title: "Warum Vengeance Ventures?"
     image: "/images/service-1.png"
-    content: "We combine technical expertise with a client-centered approach to deliver solutions that drive real results."
+    content: "Wir verbinden technisches Fachwissen mit einem kundenorientierten Ansatz, um Lösungen zu liefern, die echte Ergebnisse erzielen."
     bulletpoints:
-      - "Tailored Solutions: Every project is customized to meet your specific goals and needs."
-      - "Fast Iteration: We thrive on quick, collaborative development to bring your ideas to life."
-      - "Innovative Thinking: From blockchain to cloud infrastructure, we’re always exploring new technologies."
-      - "Transparent Communication: We keep you informed every step of the way."
-      - "Social Impact Focus: We love working with clients who are making a positive difference."
-      - "Flexible Expertise: Whether it’s React, AWS, or something new, we’re ready to tackle your challenge."
+      - "**Maßgeschneiderte Lösungen:** Jedes Projekt wird individuell auf Ihre spezifischen Ziele und Bedürfnisse zugeschnitten."
+      - "**Schnelle Iteration:** Wir setzen auf schnelle, kollaborative Entwicklung, um Ihre Ideen zum Leben zu erwecken."
+      - "**Innovatives Denken:** Von Blockchain bis hin zu Cloud-Infrastrukturen – wir erkunden stets neue Technologien."
+      - "**Transparente Kommunikation:** Wir halten Sie in jedem Schritt des Prozesses informiert."
+      - "**Fokus auf sozialen Einfluss:** Wir arbeiten gerne mit Kunden zusammen, die einen positiven Unterschied machen."
+      - "**Flexible Expertise:** Ob React, AWS oder etwas Neues – wir sind bereit für Ihre Herausforderung."
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
 
-  - title: "Our Services"
+  - title: "Unsere Services"
     image: "/images/service-2.png"
-    content: "We offer a range of web development and consulting services to help your business grow."
+    content: "Wir bieten eine Reihe von Webentwicklungs- und Beratungsdienstleistungen an, um Ihr Geschäft voranzubringen."
     bulletpoints:
-      - "Custom Website Development: Build a sleek, functional website that reflects your brand."
-      - "Web Applications: Create powerful, user-friendly web apps tailored to your needs."
-      - "Cloud Solutions: Optimize your infrastructure with AWS and cloud-based tools."
+      - "**Individuelle Website-Entwicklung:** Erstellen Sie eine elegante und funktionale Website, die Ihre Marke widerspiegelt."
+      - "**Webanwendungen:** Entwickeln Sie leistungsstarke, benutzerfreundliche Web-Apps, die auf Ihre Bedürfnisse zugeschnitten sind."
+      - "**Cloud-Lösungen:** Optimieren Sie Ihre Infrastruktur mit AWS und cloudbasierten Tools."
     button:
       enable: false
-      label: "Learn More"
-      link: "/services"
 
-  - title: "Our Values"
+  - title: "Unsere Werte"
     image: "/images/service-3.png"
-    content: At Vengeance Ventures, we believe in more than just code—we believe in building meaningful partnerships."
+    content: "Bei Vengeance Ventures glauben wir an mehr als nur Code – wir glauben an den Aufbau bedeutungsvoller Partnerschaften."
     bulletpoints:
-      - "Fair Business Practices: We prioritize collaboration and transparency over profit."
-      - "Community Focus: We’re committed to supporting local businesses and global impact."
-      - "Innovation & Adaptability: We’re always learning and exploring new ways to solve problems."
+      - "**Faire Geschäftspraktiken:** Wir priorisieren Zusammenarbeit und Transparenz über Profit."
+      - "**Gemeinschaftsfokus:** Wir engagieren uns für die Unterstützung lokaler Unternehmen und globaler Auswirkungen."
+      - "**Innovation & Anpassungsfähigkeit:** Wir lernen ständig dazu und erkunden neue Wege zur Problemlösung."
     button:
       enable: false
-      label: ""
-      link: ""
+
 ---
