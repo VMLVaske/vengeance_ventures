@@ -2,19 +2,16 @@
 
 # main menu
 [[main]]
-name = "Home"
+
+[[main]]
+name = "Services"
 url = "/"
 weight = 1
 
 [[main]]
-name = "Services"
-url = "#services"
-weight = 2
-
-[[main]]
 name = "About"
 url = "/about"
-weight = 3
+weight = 2
 
 # [[main]]
 # weight = 4
