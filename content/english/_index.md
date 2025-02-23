@@ -1,18 +1,18 @@
 ---
 # Banner
 banner:
-  title: "Willkommen bei Vengeance Ventures!"
-  content: "Wir entwickeln performante Web-Technologien, Automatisierungen & DevOps-Lösungen mit TypeScript & JavaScript - with a vengeance ❤️"
-  image: "images/banner.png"
+  title: "Zukunftssichere & Skalierbare IT Projekte"
+  content: "Wir entwickeln performante Web-Technologien, Automatisierungen & DevOps-Lösungen mit TypeScript & JavaScript."
+  image: "images/vengeance_ventures_banner.png"
   button:
     enable: true
-    label: "Jetzt kostenlos beraten lassen"
+    label: "Kostenloses Erstgespräch"
     link: "/contact"
 
 # Features
 features:
   - title: "Warum Vengeance Ventures?"
-    image: "/images/service-1.png"
+    image: "/images/vengeance_ventures_automation.png"
     content: "Maßgeschneiderte Web-Technologien für Automatisierung, Performance & Skalierbarkeit."
     bulletpoints:
       - "**Individuelle Web-Apps:** interaktive & performante Anwendungen, die speziell auf deine Anforderungen zugeschnitten sind."
@@ -24,7 +24,7 @@ features:
       enable: false
 
   - title: "🌐 Web-Apps & Automatisierungen"
-    image: "/images/service-4.png"
+    image: "/images/vengeance_ventures_react.png"
     content: "Web-Lösungen, die mehr als nur hübsche Oberflächen bieten."
     bulletpoints:
       - "**Web-Anwendungen mit TypeScript & JavaScript:** Moderne, interaktive Apps, die dein Business unterstützen."
@@ -35,7 +35,7 @@ features:
       enable: false
 
   - title: "🤖 Bots & Prozessautomatisierung"
-    image: "/images/service-5.png"
+    image: "/images/vengeance_ventures_it_solutions.png"
     content: "Datenverarbeitung & Automatisierung, die dein Business skalierbar machen."
     bulletpoints:
       - "**Kundenspezifische Bots:** intelligente Automatisierungen, die sich an deine Bedürfnisse anpassen."
@@ -46,7 +46,7 @@ features:
       enable: false
 
   - title: "🛠️ DevOps & Infrastruktur"
-    image: "/images/service-2.png"
+    image: "/images/vengeance_ventures_cloud_architecture.png"
     content: "Sichere, skalierbare & performante Systeme für einen reibungslosen Betrieb."
     bulletpoints:
       - "**CI/CD-Pipelines & Deployment:** Automatisierte Releases für eine fehlerfreie Auslieferung."
@@ -59,7 +59,7 @@ features:
       link: "/contact"
 
   - title: "Unsere Werte"
-    image: "/images/service-3.png"
+    image: "/images/vengeance_ventures_values.png"
     content: "Technologie mit Effizienz, Transparenz & Innovationsgeist."
     bulletpoints:
       - "**Effizienz & Automatisierung:** Technologien, die Abläufe vereinfachen & Zeit sparen."
