@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Main pages with monthly updates -->
+    <url>
+        <loc>{{ .Site.BaseURL }}services/</loc>
+        <lastmod>{{ now.Format "2006-01-02" }}</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>{{ .Site.BaseURL }}about/</loc>
+        <lastmod>{{ now.Format "2006-01-02" }}</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>{{ .Site.BaseURL }}contact/</loc>
+        <lastmod>{{ now.Format "2006-01-02" }}</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- Pages with yearly updates -->
+    <url>
+        <loc>{{ .Site.BaseURL }}imprint/</loc>
+        <lastmod>{{ now.Format "2006-01-02" }}</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>{{ .Site.BaseURL }}privacy-policy/</loc>
+        <lastmod>{{ now.Format "2006-01-02" }}</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+
+    <!-- Anchor links inside "services" page with monthly updates -->
+    <url>
+        <loc>{{ .Site.BaseURL }}services/#automation</loc>
+        <lastmod>{{ now.Format "2006-01-02" }}</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>{{ .Site.BaseURL }}services/#bots</loc>
+        <lastmod>{{ now.Format "2006-01-02" }}</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>{{ .Site.BaseURL }}services/#optimization</loc>
+        <lastmod>{{ now.Format "2006-01-02" }}</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+
+</urlset>
