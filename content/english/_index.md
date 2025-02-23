@@ -33,6 +33,7 @@ features:
       - "**Individuelle API-Integration:** verbinde bestehende Systeme und Datenquellen für nahtlose Abläufe."
     button:
       enable: false
+    anchor: "automation"
 
   - title: "🤖 Bots & Prozessautomatisierung"
     image: "/images/vengeance_ventures_it_solutions.png"
@@ -44,6 +45,7 @@ features:
       - "**Optimierung von Abläufen:** Zeitsparende Lösungen, die manuelle Prozesse ersetzen."
     button:
       enable: false
+    anchor: "bots"
 
   - title: "🛠️ DevOps & Infrastruktur"
     image: "/images/vengeance_ventures_cloud_architecture.png"
@@ -57,6 +59,7 @@ features:
       enable: true
       label: "Neugierig geworden?"
       link: "/contact"
+    anchor: "devops"
 
   - title: "Unsere Werte"
     image: "/images/vengeance_ventures_values.png"

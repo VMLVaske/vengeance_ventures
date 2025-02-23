@@ -5,8 +5,22 @@
 
 [[main]]
 name = "Services"
-url = "/"
 weight = 1
+
+[[main]]
+parent = "Services"
+name = "Automatisierung"
+url = "#automation"
+
+[[main]]
+parent = "Services"
+name = "Bots"
+url = "#bots"
+
+[[main]]
+parent = "Services"
+name = "Devops"
+url = "#devops"
 
 [[main]]
 name = "About"
