@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-meta_title: "contact form for vengeance ventures"
-description: "this is meta description"
+meta_title: "Kontakt – Vengeance Ventures"
+description: "Kostenloses Erstgespräch vereinbaren – kontaktiere Vengeance Ventures für Web-Technologien, Automatisierungen & DevOps-Lösungen."
 draft: false
 ---

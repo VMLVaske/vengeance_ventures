@@ -1,7 +1,7 @@
 ---
 title: "Über Vengeance Ventures"
-meta_title: "About"
-description: "this is meta description"
+meta_title: "Über Vengeance Ventures – Web-Technologien & Automatisierungen"
+description: "Gegründet 2022 – Vengeance Ventures entwickelt maßgeschneiderte Web-Apps, Automatisierungen & DevOps-Lösungen mit TypeScript & JavaScript."
 image: "/images/vengeance_ventures_vaske.png"
 draft: false
 ---

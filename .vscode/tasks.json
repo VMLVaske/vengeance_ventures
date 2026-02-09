@@ -1,21 +1,20 @@
 {
-  // See https://go.microsoft.com/fwlink/?LinkId=733558
   "version": "2.0.0",
   "tasks": [
     {
       "label": "Development",
       "type": "shell",
-      "command": "yarn dev:example",
+      "command": "npm run dev",
       "isBackground": true,
       "group": {
         "kind": "test",
         "isDefault": true
-      },
+      }
     },
     {
       "label": "Build",
       "type": "shell",
-      "command": "yarn build:example",
+      "command": "npm run build",
       "group": {
         "kind": "build",
         "isDefault": true

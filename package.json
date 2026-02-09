@@ -1,21 +1,14 @@
 {
   "name": "vengeance_ventures",
-  "description": "company website",
+  "description": "Vengeance Ventures company website",
   "version": "1.18.3",
   "license": "MIT",
-  "author": "zeon.studio",
+  "author": "Vengeance Ventures",
   "scripts": {
     "dev": "hugo server",
-    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
-    "preview": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
-    "dev:example": "cd exampleSite && hugo server",
-    "build:example": "cd exampleSite && hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
-    "preview:example": "cd exampleSite && hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
-    "update-modules": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
-    "remove-darkmode": "node ./scripts/removeDarkmode.js && yarn format",
-    "project-setup": "node ./scripts/projectSetup.js",
-    "theme-setup": "node ./scripts/themeSetup.js",
-    "update-theme": "node ./scripts/themeUpdate.js",
+    "build": "hugo --gc --minify --forceSyncStatic",
+    "preview": "hugo server --disableFastRender --navigateToChanged --watch --forceSyncStatic -e production --minify",
+    "update-modules": "hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
     "format": "prettier -w ."
   },
   "devDependencies": {
